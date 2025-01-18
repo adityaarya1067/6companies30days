@@ -1,5 +1,7 @@
 {
   "files.associations": {
-    "minimum-moves-to-equal-array-elements": "cpp"
+    "minimum-moves-to-equal-array-elements": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp"
   }
 }
