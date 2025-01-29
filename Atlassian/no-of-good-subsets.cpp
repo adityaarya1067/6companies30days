@@ -81,7 +81,7 @@ public:
             freq[nums[i]]++;
         }
         
-        vector<int> res;
+        vector<int> res    ;
         
         help(0,1,0,res,arr,bitmask,freq);
         
