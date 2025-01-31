@@ -78,7 +78,7 @@ public:
                 arr.push_back(nums[i]);
                 bitmask[nums[i]]=temp;
             }
-            // freq[nums[i]]++;
+            freq[nums[i]]++;
         }
         
         vector<int> res    ;
